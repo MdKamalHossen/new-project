@@ -2,11 +2,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Festive&family=Fira+Sans:ital,wght@0,400;0,500;1,600&family=Lato:wght@900&family=Montserrat:wght@300;400;500;600;700&family=Raleway:wght@300;400;500;600;700&family=Rowdies:wght@700&display=swap');
 body{
     font-family: 'Fira Sans', sans-serif;
-
+    
 }
 #kamal{
     color: orange;
 }
-p{
+.half{
+    width: 40%;
+    float: left;
+    padding-right: 40px;
+    margin-left: 5%;
+    
+}
+.half-width{
+    width: 40%;
+    
+    padding-left: 2%;
+    float: left;
+}
+.half-width img {
+    padding-left: 50px;
+    width: 100%;
+}
+.half .button{
+    padding: 10px;
+    background-color: #ffc710;
+    text-decoration: none;
     
 }
